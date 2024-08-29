@@ -1,0 +1,5 @@
+
+bash hicpro_collectStats.sh hicpro /mnt/disk4/haitao/bysj_seu/geo_data/hic/hicpro_output/
+bash hicpro_collectStats.sh hicpro /mnt/disk4/haitao/bysj_seu/geo_data/hic/hicpro_output/
+bash hicpro_collectStats.sh hicpro /mnt/disk4/haitao/bysj_seu/geo_data/hic/hicpro_output/
+bash hicpro_collectStats.sh hicpro /mnt/disk4/haitao/bysj_seu/geo_data/hic/hicpro_output/
