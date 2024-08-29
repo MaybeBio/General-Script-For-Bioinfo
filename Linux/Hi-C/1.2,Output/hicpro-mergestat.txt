@@ -1,3 +1,7 @@
+#执行1脚本收集hic-pro输出的质控结果，几个stat统计的txt文件就这个还能用，
+#参考dozmorovlab/PDX-HiC_processingScripts
+https://github.com/dozmorovlab/PDX-HiC_processingScripts
+
 Sample	BT549_rep1	BT549_rep2	HCC70_rep1	HCC70_rep2	HMEC_rep1	HMEC_rep2	MB231
 valid_interaction	224246910	202868946	299891225	287985409	249747489	242683175	235793172
 valid_interaction_rmdup	161020707	149583853	220372799	218767093	200157661	175844215	200168329
