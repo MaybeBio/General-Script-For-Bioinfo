@@ -1,0 +1,42 @@
+Sample: ['BT549_rep1', 'BT549_rep2', 'HCC70_rep1', 'HCC70_rep2', 'HMEC_rep1', 'HMEC_rep2', 'MB231']
+valid_interaction: [224246910, 202868946, 299891225, 287985409, 249747489, 242683175, 235793172]
+valid_interaction_rmdup: [161020707, 149583853, 220372799, 218767093, 200157661, 175844215, 200168329]
+trans_interaction: [17562487, 17664632, 23958485, 22517745, 15284940, 12657263, 20676310]
+cis_interaction: [143458220, 131919221, 196414314, 196249348, 184872721, 163186952, 179492019]
+cis_shortRange: [66564454, 58050688, 63057572, 66109409, 80356797, 83465879, 50110554]
+cis_longRange: [76893766, 73868533, 133356742, 130139939, 104515924, 79721073, 129381465]
+BT549_rep1_valid_interaction_rmdup_ratio: 0.718051
+BT549_rep1_trans_interaction_ratio: 0.109070
+BT549_rep1_cis_interaction_ratio: 0.890930
+BT549_rep1_cis_shortRange_ratio: 0.463999
+BT549_rep1_cis_longRange_ratio: 0.536001
+BT549_rep2_valid_interaction_rmdup_ratio: 0.737342
+BT549_rep2_trans_interaction_ratio: 0.118092
+BT549_rep2_cis_interaction_ratio: 0.881908
+BT549_rep2_cis_shortRange_ratio: 0.440047
+BT549_rep2_cis_longRange_ratio: 0.559953
+HCC70_rep1_valid_interaction_rmdup_ratio: 0.734842
+HCC70_rep1_trans_interaction_ratio: 0.108718
+HCC70_rep1_cis_interaction_ratio: 0.891282
+HCC70_rep1_cis_shortRange_ratio: 0.321044
+HCC70_rep1_cis_longRange_ratio: 0.678956
+HCC70_rep2_valid_interaction_rmdup_ratio: 0.759646
+HCC70_rep2_trans_interaction_ratio: 0.102930
+HCC70_rep2_cis_interaction_ratio: 0.897070
+HCC70_rep2_cis_shortRange_ratio: 0.336864
+HCC70_rep2_cis_longRange_ratio: 0.663136
+HMEC_rep1_valid_interaction_rmdup_ratio: 0.801440
+HMEC_rep1_trans_interaction_ratio: 0.076365
+HMEC_rep1_cis_interaction_ratio: 0.923635
+HMEC_rep1_cis_shortRange_ratio: 0.434660
+HMEC_rep1_cis_longRange_ratio: 0.565340
+HMEC_rep2_valid_interaction_rmdup_ratio: 0.724583
+HMEC_rep2_trans_interaction_ratio: 0.071980
+HMEC_rep2_cis_interaction_ratio: 0.928020
+HMEC_rep2_cis_shortRange_ratio: 0.511474
+HMEC_rep2_cis_longRange_ratio: 0.488526
+MB231_valid_interaction_rmdup_ratio: 0.848915
+MB231_trans_interaction_ratio: 0.103295
+MB231_cis_interaction_ratio: 0.896705
+MB231_cis_shortRange_ratio: 0.279180
+MB231_cis_longRange_ratio: 0.720820
