@@ -1,1 +1,3 @@
-
+#暂时先使用txt格式收集，后期再统一用md格式修改
+#主要上传Hi-C项目数据分析过程所用到的shell脚本，可随时查阅并且移植复用
+Mainly upload the shell script used in the Hi-C project data analysis process, which can be consulted and transplanted at any time
