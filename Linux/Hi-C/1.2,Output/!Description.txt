@@ -3,3 +3,4 @@
 2，几个hicpro的stat脚本都是记录hicpro在执行过程中每个中间步骤获得的测序reads配对统计情况，暂时只有mergestat.txt结果可用，展示最后的顺反互作比例等，但是数据上有问题，参考https://github.com/dozmorovlab/PDX-HiC_processingScripts但是x2区别，待处理
 3，针对2中mergestat文件的二次处理，即统计实际情况下的顺反互作比例，对未合并重复rep的样本的统计，即stat_ratio_unmerged.py，以及对应的结果txt
 而对已经合并rep的样本的统计，则在merged.py中，注意这两个2次处理的py脚本没有矫正过，待处理
+4，hicpro软件的默认输出也有关于hic数据的顺反互作比例统计stat文件以及图，图例放在pic合并文件夹中（合并rep之后的样本文件的质控结果）
