@@ -1,2 +1,5 @@
-# General-Shell/Flow-Script-For-Bioinfo
-General Pipeline/Flow Script For Bioinfo（GPFSFB），Mainly upload some general bioinfo Pipeline/Flow MANAGEMENT script, including Python/R/Shell scripts,does not involve the specific bioinfo sub-topic module, can be modified and transplanted
+# 生信通用脚本经验
+## **1，目的：**
+搭配notion、腾讯文档等笔记软件，将科研经验等笔记当做博客推送到github云记录
+
+
